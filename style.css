@@ -1,0 +1,61 @@
+.nav a {
+    color: #7D7D7D;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+    text-decoration: none;
+}
+
+.nav li {
+    list-style-type: none;
+}
+
+#LIFESTYLE {
+    color: #03A9F4;
+}
+
+.LIFESTYLE h3 {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height */
+    color: #B4AD9E
+}
+
+.LIFESTYLE h2 {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    /* identical to box height */
+    color: #626262;
+}
+
+.LIFESTYLE p {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;
+}
+
+.LIFESTYLE li {
+    list-style-type: none;
+}
+
+.btn {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+    color: #626262
+}
