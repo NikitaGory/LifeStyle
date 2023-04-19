@@ -9,6 +9,10 @@
     text-decoration: none;
 }
 
+.nav a:hover {
+    color: #03A9F4;
+}
+
 .nav li {
     list-style-type: none;
 }
@@ -48,6 +52,8 @@
 
 .LIFESTYLE li {
     list-style-type: none;
+    width:420px ; 
+    height: 546px;
 }
 
 .btn {
@@ -57,5 +63,7 @@
     font-size: 14px;
     line-height: 19px;
     /* identical to box height */
-    color: #626262
+    color: #626262;
+    width: 165px;
+    height: 60px;
 }
