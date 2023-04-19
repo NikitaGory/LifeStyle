@@ -1,3 +1,7 @@
+.nav li {
+    list-style-type: none;
+}
+
 .nav a {
     color: #7D7D7D;
     font-family: 'Playfair Display';
@@ -13,12 +17,14 @@
     color: #03A9F4;
 }
 
-.nav li {
-    list-style-type: none;
-}
-
 #LIFESTYLE {
     color: #03A9F4;
+}
+
+.LIFESTYLE li {
+    list-style-type: none;
+    width:420px ; 
+    height: 546px;
 }
 
 .LIFESTYLE h3 {
@@ -48,12 +54,6 @@
     font-size: 14px;
     line-height: 19px;
     color: #626262;
-}
-
-.LIFESTYLE li {
-    list-style-type: none;
-    width:420px ; 
-    height: 546px;
 }
 
 .btn {
