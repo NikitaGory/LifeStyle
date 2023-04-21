@@ -66,4 +66,6 @@
     color: #626262;
     width: 165px;
     height: 60px;
+    background-color: #ffff;
+    cursor: pointer;
 }
