@@ -1,0 +1,119 @@
+.nav {
+    height: 19px;
+}
+
+.nav-content {
+    width: 555px;
+    margin: 71px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav li {
+    list-style-type: none;
+}
+
+.nav a {
+    color: #7D7D7D;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+    text-decoration: none;
+}
+
+.nav a:hover {
+    color: #03A9F4;
+}
+
+#LIFESTYLE {
+    color: #03A9F4;
+}
+.LIFESTYLE {
+     height: 1931px;
+     margin-top: 85px;
+     margin-bottom: 60px;
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+     align-items: center;
+}
+
+.LIFESTYLE-content {
+    height: 1838px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.lifestyle-content1 {
+    width: 905px;
+    height: 546px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lifestyle-content2 {
+    width: 905px;
+    height: 546px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lifestyle-content3 {
+    width: 905px;
+    height: 546px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.LIFESTYLE li {
+    list-style-type: none;
+    width:  420px; 
+    height: 546px;
+}
+
+.LIFESTYLE h3 {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height */
+    color: #B4AD9E
+}
+
+.LIFESTYLE h2 {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    /* identical to box height */
+    color: #626262;
+}
+
+.LIFESTYLE p {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;
+}
+
+.btn {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+    color: #626262;
+    width: 165px;
+    height: 60px;
+    background-color: #ffff;
+    cursor: pointer;
+}
